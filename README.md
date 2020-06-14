@@ -11,7 +11,7 @@ Now you may run it on a GPU via
 
 Then the model will be trained from scratch and be evaluated every epoch, using CoNLL evaluation script.
 
-If you want to run it on CPU, just remove all the ".cuda()" in the code and use the command above. This may sound sort of primitive, but it's for simplicity.
+If you want to run it on CPU, just remove all the ".cuda()" in the code and use the command above. This may sound sort of primitive...
 
 # Result #
 
